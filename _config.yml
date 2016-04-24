@@ -1,0 +1,28 @@
+name: Conscious Living Collective
+favicon: null
+layout_spectrum: 0.33562128618359566
+typography_spectrum: 0.29528961540199816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13653172622434795
+  lightness: 0.5438046427443624
+  saturation: 0.6203869821038097
+  rhythmicContrast: 0.5394731187261641
+purpose: []
